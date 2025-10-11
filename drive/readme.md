@@ -1,1 +1,1 @@
-This project contains starter code for autonomous driving projects used in a Masters level course for Robotics AI. It contains a combination of Arduino and Python code. Some portions are incomplete with the intent for students to complete it.
+This project is a duplicate repo and contains starter code for autonomous driving projects used in a Masters level course for Robotics AI. It contains a combination of Arduino and Python code. Some portions are incomplete with the intent for students to complete it.

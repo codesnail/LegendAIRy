@@ -1,1 +1,1 @@
-This file contains arduino code for autonomous driving projects.
+This is a duplicate public repo containing arduino code for autonomous driving projects. It works in conjunction with the python code. These files are part of student projects so some portions are intended for students to complete.

@@ -1,10 +1,10 @@
 Some suggestions for further exploration:
 
-Task 2.1: Add motor movement to 1D Kalman Filter to measure velocity of car (against a wall or another stationary object).
+Task 1: Add motor movement to 1D Kalman Filter to measure velocity of car (against a wall or another stationary object).
 
-Task 2.2: Find and track objects by using their mid-points. Use the mid-point in a KF to track a single object. Slow and not practical, but pedagogical value to understand the end-to-end pipeline for a KF.
+Task 2: Find and track objects by using their mid-points. Use the mid-point in a KF to track a single object. Slow and not practical, but pedagogical value to understand the end-to-end pipeline for a KF.
 
-Task 2.3: Alternately (instead of implementing a 2D Kalman Filter), expand point array processing to identify multiple landmarks. This can be used later to build a map of the env.
+Task 3: Alternately (instead of implementing a 2D Kalman Filter), expand point array processing to identify multiple landmarks. This can be used later to build a map of the env.
 
 #### Key takeaways from HW perspective: 
 
